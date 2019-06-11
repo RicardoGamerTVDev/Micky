@@ -52,6 +52,4 @@ If none of that helped you, please watch this video down below. It will help you
 <a href="https://youtu.be/mI1-maQsuYo">
     <img src="https://cdn.discordapp.com/attachments/568228987298512897/587819625547300906/unknown.png" alt="Support">
   </a>
-
-<img src='https://cdn.discordapp.com/attachments/587093979808399361/587794982593626133/unknown.png' align='center' width=500>
 </div>
