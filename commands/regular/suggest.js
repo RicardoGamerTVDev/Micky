@@ -35,9 +35,16 @@ class SuggestCommand extends commando.Command
                 .setFooter('Your suggestion may become a future!')
 
             message.channel.send(embed);
+            
+            let embed3000 = new discord.Client()
+                .setTitle(`Thanks for leaving a suggestion, ${message.member.displayName}`)
+                .setDescription(`Our staff and members here on ${message.guild.name} will think about your suggestion!`)
+                .setThumbnail(message.guild.iconURL)
+                .setColor('BLUE')
+                .setFooter("Your suggestion has been sent to `#suggestions`!")
 
-            message.member.send('Thanks for making a suggestion! Everyone on the server will think about your suggestion.')
-
+            message.member.send("embed3000")
+            
             let voteSuggestions = new discord.RichEmbed()
                 .setTitle('New Suggestion!')
                 .setDescription(`This suggestion was created at ${message.createdAt}`)
