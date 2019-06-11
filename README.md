@@ -49,8 +49,7 @@ Go to Heroku, if you aren't signed in through Heroku, please do. Then here are t
 
 If none of that helped you, please watch this video down below. It will help you indeed.
 
-`VIDEO BEING RECORDED NOW, PLEASE WAIT`
+<iframe height="150" width="300" src="https://www.youtube.com/embed/Q6_5InVJZ88" allowfullscreen frameborder="0"></iframe>
 
-<br>
 <img src='https://cdn.discordapp.com/attachments/587093979808399361/587794982593626133/unknown.png' align='center' width=500>
 </div>
