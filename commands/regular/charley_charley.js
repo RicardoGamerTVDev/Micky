@@ -15,7 +15,7 @@ class CharleyCharley extends commando.Command
 
     async run(message, args)
     {
-        let message = message.content.split(' ').slice(1).join(' ');
+        let messageCharley = message.content.split(' ').slice(1).join(' ');
 
         if(!message) return message.reply('seriously? u got nothing to say...?')
 
@@ -27,7 +27,7 @@ class CharleyCharley extends commando.Command
                 .setImage('http://www.creepypasta.xyz/wp-content/uploads/2017/01/Charlie-Charlie-challenge.jpg')
                 .setAuthor(message.member.displayName,message.author.displayAvatarURL)
                 .setColor('GREEN')
-                .setDescription(`Your message. ${message} was replied to a yes.`)
+                .setDescription(`Your message. ${messageCharley} was replied to a yes.`)
                 .setFooter('Yes', message.author.displayAvatarURL)
             
             message.channel.send(embed);
@@ -39,7 +39,7 @@ class CharleyCharley extends commando.Command
                 .setImage('https://cde.peru.com//ima/0/1/4/6/4/1464856/611x458/charlie-charlie.jpg')
                 .setAuthor(message.member.displayName,message.author.displayAvatarURL)
                 .setColor('RED')
-                .setDescription(`Your message. ${message} was replied to a no.`)
+                .setDescription(`Your message. ${messageCharley} was replied to a no.`)
                 .setFooter('No', message.author.displayAvatarURL)
             
             message.channel.send(embed); 
