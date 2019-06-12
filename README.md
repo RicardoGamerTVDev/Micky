@@ -61,3 +61,11 @@ We have officaly taken out suggestions because people are starting to get bored 
 <br>
 <img src='https://cdn.discordapp.com/attachments/568228987298512897/588463671999594496/unknown.png' align='center' width=500>
 </div>
+
+# What new commands have been added in June 12, 2019?
+
+We have added a Charley Charley command. Simply say `?charley [message]` to get charley up. This is a question game. And we might added a fighting game soon! We have actually worked on this pretty easily. It wasn't that hard. But it will be more fancy soon.
+
+<br>
+<img src='https://cdn.discordapp.com/attachments/584934883109896196/588470633201926189/unknown.png' align='center' width=500>
+</div>
