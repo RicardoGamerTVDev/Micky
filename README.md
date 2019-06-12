@@ -53,3 +53,11 @@ If none of that helped you, please watch this video down below. It will help you
     <img src="https://cdn.discordapp.com/attachments/568228987298512897/587819625547300906/unknown.png" alt="Support">
   </a>
 </div>
+
+## Why are suggestions taken away?
+
+We have officaly taken out suggestions because people are starting to get bored of it. I want people to enjoy this amazing bot. So me and mitch will start to make better fun commands for the bot. We are sorry about that. But we hope that it will help you better!
+
+<br>
+<img src='https://cdn.discordapp.com/attachments/568228987298512897/588463671999594496/unknown.png' align='center' width=500>
+</div>
