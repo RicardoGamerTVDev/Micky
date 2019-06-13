@@ -79,3 +79,9 @@ Micky V2.0.1 has finally came. We are both excited to release amazing stuff! Thi
 <br>
 <img src='https://askleo.com/wp-content/uploads/2014/03/new_version.png' align='center' width=500>
 </div>
+
+## June 13, 2019
+
+Moderation commands: `?kick @user [reason]`, `?ban @user [reason]`. Fun Game commands: `?doggo`.
+
+> Coming up. Stay hyped!
