@@ -25,7 +25,7 @@ class KickCommand extends commando.Command
         let noTarget = new discord.RichEmbed()
             .setAuthor(message.author.tag, message.author.avatarURL)
             .setTitle('Error')
-            .setDescription('You didn't mention a user to kick. Please mention a user to kick.')
+            .setDescription('You didn\'t mention a user to kick. Please mention a user to kick.')
             .setColor('RED')
             .setThumbnail(message.author.avatarURL)
             .setFooter(message.guild.name, message.guild.iconURL)
