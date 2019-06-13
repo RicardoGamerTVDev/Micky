@@ -73,3 +73,9 @@ We have added a Charley Charley command. Simply say `?charley [message]` to get 
 ## Micky V2.0.1
 
 > Micky V2.0.1 has finally released and suggestions have been taken away. Games and moderation are ready to say hello!
+
+Micky V2.0.1 has finally came. We are both excited to release amazing stuff! This bot will soon be in atleast 50 servers. But, lets hope so. 
+
+<br>
+<img src='https://askleo.com/wp-content/uploads/2014/03/new_version.png' align='center' width=500>
+</div>
