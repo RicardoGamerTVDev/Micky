@@ -24,7 +24,7 @@ class Help extends commando.Command
         message.channel.send(embed)
         let embed2 = new discord.RichEmbed()
         .setTitle('Regular Commands')
-        .addField('?suggest', 'ONLY WORKS IN A CHANNEL CALLED `sumbit-suggestions` | Suggest anything you want for the future!')
+        .addField('?charley [message]', 'Charley may be there.')
         .addField('?info', 'Tells you about me!')
         .addField('?help', 'Tells you list os commands.')
         .setColor('BLUE')
