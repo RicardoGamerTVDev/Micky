@@ -69,3 +69,7 @@ We have added a Charley Charley command. Simply say `?charley [message]` to get 
 <br>
 <img src='https://cdn.discordapp.com/attachments/584934883109896196/588470633201926189/unknown.png' align='center' width=500>
 </div>
+
+## Micky V2.0.1
+
+> Micky V2.0.1 has finally released and suggestions have been taken away. Games and moderation are ready to say hello!
