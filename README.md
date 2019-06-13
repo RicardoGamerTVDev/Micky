@@ -85,3 +85,5 @@ Micky V2.0.1 has finally came. We are both excited to release amazing stuff! Thi
 Moderation commands: `?kick @user [reason]`, `?ban @user [reason]`. Fun Game commands: `?doggo`.
 
 > Coming up. Stay hyped!
+
+Work in progress
