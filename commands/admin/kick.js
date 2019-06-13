@@ -48,7 +48,7 @@ class KickCommand extends commando.Command
         let noAdministrator = new discord.RichEmbed()
             .setAuthor(message.author.tag, message.author.avatarURL)
             .setTitle('Error')
-            .setDescription(`Your trying to kick ${target.user.username} in ${message.guild.name}. But you don't have have the permission __KICK_MEMBERS__ to use this.`)'
+            .setDescription(`Your trying to kick ${target.user.username} in ${message.guild.name}. But you don't have have the permission __KICK_MEMBERS__ to use this.`)
             .setColor('RED')
             .setThumbnail(message.author.avatarURL)
             .setFooter(message.guild.name, message.guild.iconURL)
