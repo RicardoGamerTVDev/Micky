@@ -92,8 +92,8 @@ Work in progress
 
 We are currently selling [Message Logger](https://discordapp.com/api/oauth2/authorize?client_id=583778437752160354&permissions=8&scope=bot) to a lot of people!
 
-![img](https://i.gyazo.com/40d34487cdf2e2c385f37409abca047c.mp4)
+![img](https://cdn.discordapp.com/attachments/584934883109896196/588921773551124480/unknown.png)
 
-![img](https://i.gyazo.com/a1c404bba9d17c0787523198277b3ff0.mp4)
+![img](https://cdn.discordapp.com/attachments/584934883109896196/588921830128091156/unknown.png)
 
-![img](https://i.gyazo.com/08503a7c322c640c5d73512f5f518c3e.mp4)
+![img](https://cdn.discordapp.com/attachments/584934883109896196/588921870984806421/unknown.png)
