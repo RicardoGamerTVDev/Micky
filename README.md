@@ -87,3 +87,19 @@ Moderation commands: `?kick @user [reason]`, `?ban @user [reason]`. Fun Game com
 > Coming up. Stay hyped!
 
 Work in progress
+
+## Message Logger
+
+We are currently selling [Message Logger](https://discordapp.com/api/oauth2/authorize?client_id=583778437752160354&permissions=8&scope=bot) to a lot of people!
+
+<br>
+<img src='https://gyazo.com/40d34487cdf2e2c385f37409abca047c' align='center' width=500>
+</div>
+
+<br>
+<img src='https://gyazo.com/a1c404bba9d17c0787523198277b3ff0' align='center' width=500>
+</div>
+
+<br>
+<img src='https://gyazo.com/08503a7c322c640c5d73512f5f518c3e' align='center' width=500>
+</div>
